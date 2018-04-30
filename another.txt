@@ -2,4 +2,5 @@ Test auto merging.
 
 Test rebase again.
 
+Test rebase + 2.
 Test rebase again again.
