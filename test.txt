@@ -5,3 +5,5 @@ I am second.
 first commit.
 second commit.
 Test rebase.
+
+Test auto merging.
