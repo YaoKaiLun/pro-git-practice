@@ -7,3 +7,5 @@ second commit.
 Test rebase.
 
 Test auto merging.
+
+Test rebase again.
