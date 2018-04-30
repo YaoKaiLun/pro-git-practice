@@ -2,4 +2,6 @@ hello world!
 I am first.
 I am second.
 
+first commit.
+second commit.
 Test rebase.
