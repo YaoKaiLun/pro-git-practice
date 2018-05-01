@@ -4,3 +4,5 @@ Test rebase again.
 
 Test rebase + 2.
 Test rebase again again.
+
+Test git in / out ..
