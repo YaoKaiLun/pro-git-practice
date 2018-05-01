@@ -9,3 +9,5 @@ Test rebase.
 Test auto merging.
 
 Test rebase again.
+
+Test revert
